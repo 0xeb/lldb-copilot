@@ -1,0 +1,3 @@
+LIBRARY lldb_copilot
+EXPORTS
+    _ZN4lldb16PluginInitializeENS_10SBDebuggerE=lldb_PluginInitialize

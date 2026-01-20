@@ -1,0 +1,23 @@
+# Build directories
+build*/
+out/
+
+# IDE
+.idea/
+.vscode/
+*.user
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
+# Binaries
+*.so
+*.dylib
+*.dll
+*.lib
+*.exp
+*.exe
+*.o
+*.obj
